@@ -1,2 +1,2 @@
 # Entry-level-project
-Mind-controlled vehicle system based on SSSVEP.
+Mind-controlled vehicle system based on SSVEP.
